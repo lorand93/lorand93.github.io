@@ -2,10 +2,10 @@
   "@context": "http://schema.org",
   "@type": "FoodEstablishment",
   "name": "eatz",
-  "@id": "https://www.eatz.ro",
-  "url": "https://www.eatz.ro",
-  "logo": "https://eatz.ro/eatz-images/time-to-eat-logo.png",
-  "image": "https://eatz.ro/eatz-images/time-to-eat-logo.png",
+  "@id": "http://eatz.ro",
+  "url": "http://eatz.ro",
+  "logo": "http://eatz.ro/eatz-images/time-to-eat-logo.png",
+  "image": "http://eatz.ro/eatz-images/time-to-eat-logo.png",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Calea Turzii nr. 227A ap. 63",
@@ -37,7 +37,7 @@
   "potentialAction": {
     "@type": "BuyAction",
     "target": [
-      "https://www.eatz.ro",
+      "http://eatz.ro",
       "android-app:https://itunes.apple.com/gb/app/time-to-eat-romania/id1309182561?mt=8",
       "ios-app:https://itunes.apple.com/gb/app/time-to-eat-romania/id1309182561?mt=8"
     ]

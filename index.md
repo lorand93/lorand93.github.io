@@ -8,7 +8,7 @@
 
 <div class="col-md-1 col-sm-1">
 
-<div class="logo_img">[![eatz-logo](./eatz-images/time-to-eat-logo.png)](https://www.eatz.ro)</div>
+<div class="logo_img">[![eatz-logo](./eatz-images/time-to-eat-logo.png)](http://eatz.ro)</div>
 
 </div>
 
@@ -22,15 +22,15 @@
 
 <div class="collapse navbar-collapse" id="navbar">
 
-*   [Acasă](https://www.eatz.ro)
-*   [Avantaje](https://www.eatz.ro/#eatz-advantages)
-*   [Cum Funcționează](https://www.eatz.ro/#eatz-services)
-*   [Prezentare](https://www.eatz.ro/#eatz-presentation)
-*   [Testimonial](https://www.eatz.ro/#eatz-testimonial)
-*   [Echipa](https://www.eatz.ro/#eatz-team)
-*   [Contact](https://www.eatz.ro/#eatz-contact)
-*   [Blog](https://www.eatz.ro/blog/)
-*   [Urmărește-ne](https://www.eatz.ro/#eatz-follow-us)
+*   [Acasă](http://eatz.ro)
+*   [Avantaje](http://eatz.ro/#eatz-advantages)
+*   [Cum Funcționează](http://eatz.ro/#eatz-services)
+*   [Prezentare](http://eatz.ro/#eatz-presentation)
+*   [Testimonial](http://eatz.ro/#eatz-testimonial)
+*   [Echipa](http://eatz.ro/#eatz-team)
+*   [Contact](http://eatz.ro/#eatz-contact)
+*   [Blog](http://eatz.ro/blog/)
+*   [Urmărește-ne](http://eatz.ro/#eatz-follow-us)
 
 </div>
 
@@ -48,7 +48,7 @@
 
 </header>
 
-<section id="https://www.eatz.ro" class="top_banner_bg secondary-bg">
+<section id="http://eatz.ro" class="top_banner_bg secondary-bg">
 
 <div class="container">
 
