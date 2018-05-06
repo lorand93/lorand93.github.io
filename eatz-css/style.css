@@ -343,6 +343,9 @@ section.coming_soon_bg{padding:60px 0 90px;}
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover{background-color:hsl(39, 100%, 50%);color:hsl(0, 0%, 33%);}
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover{background-color:hsla(0, 0%, 0%, 0);color:hsl(0, 0%, 100%);}
 .logo_img{float:left;padding:9px 0;z-index:1;position:absolute;left:0;width:25%;}
+.body > header > div > div > div > div.col-md-1.col-sm-1 > div > a > p{
+    font-size: 20px!important;
+    color: #f3f0f0 !important;}
 .present{text-align:center;}
 .present h1{font-size:40px;line-height:60px;padding-bottom:50px;}
 .section_btn{margin:20px 0 30px;}

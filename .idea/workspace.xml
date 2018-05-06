@@ -2,83 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b35fc9fa-2454-441e-af9c-9c761868562b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-css/animate.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-css/animate.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-css/blogStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-css/blogStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-css/google410b31cab52323b0.html" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-css/google410b31cab52323b0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/404_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/404_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/Timetoeat-m1.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/Timetoeat-m1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/Timetoeat-m2.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/Timetoeat-m2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/bg-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/coming_soon.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/coming_soon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/contact_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/contact_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/contact_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/contact_img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edit.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edit.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/Instagram PSD.psd" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/Instagram PSD.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/food-with-hand.psd" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/food-with-hand.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/gold-no-frames.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/gold-no-frames.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/gold-no-frames.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/gold-no-frames.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/gold-psd.psd" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/gold-psd.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/gold-with-frames.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/gold-with-frames.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/image-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/image-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/image-1.psd" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/image-1.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/instagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/instagram2.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/instagram2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/iphone-gold.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/iphone-gold.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/iphone-silver.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/iphone-silver.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/login-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/login-screen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/splash-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/splash-screen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/stacked-phones.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/stacked-phones.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/time-to-eat-food-with-hand.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-food-with-hand.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/time-to-eat-login-screen-phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-login-screen-phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/time-to-eat-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/time-to-eat-romania-gold-food.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-romania-gold-food.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/time-to-eat-romania-stacked-food.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-romania-stacked-food.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/with hand psd.psd" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/with hand psd.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/edited/with-hand.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/with-hand.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/features_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/features_img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/gold-no-frames.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/gold-no-frames.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/img.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/img.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/img2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/img2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/iphone-gold.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/iphone-gold.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/iphone-silver.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/iphone-silver.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/lori.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/lori.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/price_table_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/price_table_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/services_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/services_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/testi_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/testi_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/time-to-eat-food-with-hand.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/time-to-eat-food-with-hand.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/time-to-eat-login-screen-phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/time-to-eat-login-screen-phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/time-to-eat-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/time-to-eat-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-images/with-hand.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/with-hand.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/agency.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/agency.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/interface.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/interface.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/jquery.countdown.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/jquery.countdown.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/jquery.easing.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/jquery.plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/jquery.plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/jquery_002.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/jquery_002.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimetoEat-js/jquery_003.js" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-js/jquery_003.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blogArticle1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blogArticle1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/TimetoEat-css/blogStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/en/TimetoEat-css/blogStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/TimetoEat-css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/en/TimetoEat-css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/blog/blogArticle1.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/blog/blogArticle1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/Instagram PSD.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/food-with-hand.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/gold-no-frames.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/gold-no-frames.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/gold-psd.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/gold-with-frames.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/image-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/image-1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/instagram2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/iphone-gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/iphone-silver.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/login-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/splash-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/stacked-phones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-food-with-hand.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-food-with-hand.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-login-screen-phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-romania-gold-food.png" beforeDir="false" afterPath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-romania-gold-food.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/time-to-eat-romania-stacked-food.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/with hand psd.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eatz-images/edited/with-hand.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partner/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/partner/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rich-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/rich-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,8 +43,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="374" column="18" lean-forward="true" selection-start-line="330" selection-start-column="8" selection-end-line="374" selection-end-column="18" />
+            <state relative-caret-position="272">
+              <caret line="71" column="59" lean-forward="true" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="59" />
+              <folding>
+                <element signature="e#23742#23749#1" expanded="true" />
+                <element signature="e#24556#24563#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,8 +56,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eatz-css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="268" column="36" selection-start-line="268" selection-start-column="36" selection-end-line="268" selection-end-column="36" />
+            <state relative-caret-position="245">
+              <caret line="348" column="28" lean-forward="true" selection-start-line="348" selection-start-column="28" selection-end-line="348" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -126,7 +78,6 @@
       <find>time to eat</find>
       <find>Timetoeat</find>
       <find>timetoeat</find>
-      <find>logo</find>
       <find>Eatz</find>
       <find>aplicatiile</find>
       <find>eatz</find>
@@ -136,6 +87,10 @@
       <find>trimite-ne</find>
       <find>blog</find>
       <find>afla ul</find>
+      <find>favicon</find>
+      <find>logo</find>
+      <find>p{font-size:16px;color:#585858;line-height:27px;}</find>
+      <find>logo-text</find>
     </findStrings>
     <replaceStrings>
       <replace>./</replace>
@@ -162,9 +117,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
+    <option name="x" value="840" />
     <option name="y" value="22" />
-    <option name="width" value="1602" />
+    <option name="width" value="840" />
     <option name="height" value="959" />
   </component>
   <component name="ProjectView">
@@ -172,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,7 +139,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,15 +175,16 @@
       <option name="presentableId" value="Default" />
       <updated>1525608138771</updated>
       <workItem from="1525608144562" duration="811000" />
-      <workItem from="1525608975713" duration="959000" />
+      <workItem from="1525608975713" duration="1657000" />
+      <workItem from="1525617600270" duration="565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1770000" />
+    <option name="totallyTimeSpent" value="3033000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="22" width="1602" height="959" extended-state="0" />
+    <frame x="840" y="22" width="840" height="959" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -237,9 +193,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32946634" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32946634" />
       <window_info anchor="right" id="FAQ Robot" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25320512" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.25641027" />
       <window_info id="Project Explorer" order="1" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -265,6 +221,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6341">
+          <caret line="373" column="21" lean-forward="true" selection-start-line="373" selection-start-column="21" selection-end-line="373" selection-end-column="21" />
+          <folding>
+            <element signature="e#23742#23749#1" expanded="true" />
+            <element signature="e#24556#24563#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eatz-css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4556">
+          <caret line="268" column="36" selection-start-line="268" selection-start-column="36" selection-end-line="268" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4862">
           <caret line="286" column="26" selection-start-line="286" selection-start-column="26" selection-end-line="286" selection-end-column="26" />
         </state>
@@ -279,15 +253,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eatz-css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="268" column="36" selection-start-line="268" selection-start-column="36" selection-end-line="268" selection-end-column="36" />
+        <state relative-caret-position="245">
+          <caret line="348" column="28" lean-forward="true" selection-start-line="348" selection-start-column="28" selection-end-line="348" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="374" column="18" lean-forward="true" selection-start-line="330" selection-start-column="8" selection-end-line="374" selection-end-column="18" />
+        <state relative-caret-position="272">
+          <caret line="71" column="59" lean-forward="true" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="59" />
+          <folding>
+            <element signature="e#23742#23749#1" expanded="true" />
+            <element signature="e#24556#24563#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
