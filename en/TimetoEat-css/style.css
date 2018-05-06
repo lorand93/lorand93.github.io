@@ -107,7 +107,7 @@ article.blog_post{margin:0;}
 .logo_bar li a{border:1px solid hsl(0, 0%, 100%);color:hsl(0, 0%, 100%);padding:5px 30px;font-size:15px;line-height:27px;font-weight:300;}
 .logo_bar li{list-style:none;display:inline-block;}
 .logo_bar li a:hover{background:#ffa200;color:#fff;}
-section.coming_soon_bg{background:hsl(221, 93%, 6%) url("../TimetoEat-images/bg-1.jpg") no-repeat fixed 0 0/cover;position:relative;padding:60px 0 160px;}
+section.coming_soon_bg{background:hsl(221, 93%, 6%) url("../eatz-images/bg-1.jpg") no-repeat fixed 0 0/cover;position:relative;padding:60px 0 160px;}
 section.coming_soon_bg:after{position:absolute;top:0px;left:0px;right:0px;height:100%;width:100%;content:"";background:rgba(1, 10, 28, 0.8);}
 .coming_soon_detail{width:80%;}
 .coming_soon_detail h2{color:hsl(0, 0%, 100%);font-weight:400;line-height:65px;}
@@ -124,7 +124,7 @@ section.coming_soon_bg:after{position:absolute;top:0px;left:0px;right:0px;height
 .coming_soon_footer p{color:hsl(0, 0%, 100%);display:inline-block;font-size:17px;}
 .coming_soon_footer a{color:hsl(0, 0%, 100%);font-size:22px;padding:0 10px;}
 .coming_soon_footer a:hover{color:#ffa200;}
-section.error_top_bg{background:hsl(220, 93%, 6%) url(../TimetoEat-images/404_bg.png) no-repeat fixed 0 0/cover;position:relative;}
+section.error_top_bg{background:hsl(220, 93%, 6%) url(../eatz-images/404_bg.png) no-repeat fixed 0 0/cover;position:relative;}
 section.error_top_bg:after{position:absolute;top:0px;left:0px;right:0px;height:100%;width:100%;content:"";background:rgba(1, 10, 28, 0.8);}
 .category_m{text-align:center;margin:0 auto;}
 .category_m > h2{color:#fff;font-weight:300;line-height:40px;}
@@ -163,7 +163,7 @@ ul.breadcrumbs_m{margin:0;padding:0;}
 .panel-body p{color:hsl(0, 1%, 33%);margin-bottom:20px;}
 #accordion1.panel-group{margin-bottom:90px;}
 .screenshot_slider{overflow:hidden;margin:0 auto;text-align:center;margin-bottom:100px;}
-section.top_banner_bg{background:hsl(220, 93%, 6%) url("../TimetoEat-images/bg-1.jpg") no-repeat fixed 0 0/cover;padding-bottom:0;position:relative;}
+section.top_banner_bg{background:hsl(220, 93%, 6%) url("../eatz-images/bg-1.jpg") no-repeat fixed 0 0/cover;padding-bottom:0;position:relative;}
 section.top_banner_bg:after{position:absolute;top:0px;left:0px;right:0px;height:100%;width:100%;content:"";background:rgba(1, 10, 28, 0.8);}
 .present{position:relative;z-index:2;}
 .present_img{position:relative;z-index:2;}
@@ -202,7 +202,7 @@ section.top_banner_bg:after{position:absolute;top:0px;left:0px;right:0px;height:
 .services_detail li{margin-bottom:30px;overflow:hidden;}
 .services_detail span i{-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;-ms-transition:all 0.5s ease;transition:all 0.5s ease;}
 .services_detail span i:hover{border-radius:50%;-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-o-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}
-section.our_service_bg{background:url(../TimetoEat-images/services_bg.png) repeat scroll 0 0;position:relative;}
+section.our_service_bg{background:url(../eatz-images/services_bg.png) repeat scroll 0 0;position:relative;}
 section.our_service_bg:after{position:absolute;top:0px;left:0px;right:0px;height:100%;width:100%;content:"";background:rgba(1, 10, 28, 0.8);}
 .how_it_work_m{margin-top:50px;}
 .how_it_work_m i{font-size:46px;line-height:50px;color:#379EF6;}
@@ -226,13 +226,13 @@ section.our_service_bg:after{position:absolute;top:0px;left:0px;right:0px;height
 .table-1 li{border-bottom:1px dashed #e3e2e2;color:hsl(0, 0%, 0%);font-size:20px;font-weight:300;list-style:outside none none;margin:0 40px;padding:10px 20px;}
 .section_sub_btn .btn.btn-default{background:#379EF6 none repeat scroll 0 0;border:0 none;border-radius:10px;color:hsl(0, 0%, 100%);font-family:roboto slab;font-size:22px;font-weight:500;line-height:35px;margin:10px 0 35px;padding:10px 30px;}
 .price_month_m{background:#d7232d none repeat scroll 0 0;padding:10px 0;}
-section.price_table_bg{background:url(../TimetoEat-images/price_table_bg.png) repeat scroll 0 0;position:relative;}
+section.price_table_bg{background:url(../eatz-images/price_table_bg.png) repeat scroll 0 0;position:relative;}
 section.price_table_bg:after{position:absolute;top:0px;left:0px;right:0px;height:100%;width:100%;content:"";background:rgba(1, 10, 28, 0.8);}
 .member_name > h5{margin:0;}
 .member_name{border:1px solid hsl(0, 0%, 80%);padding:25px 0;text-align:center;}
 .member_name > h5{margin:0;font-size:24px;font-weight:500;line-height:27px;}
 .member_name > p{color:#379EF6;font-weight:600;line-height:25px;margin:0;padding:5px 0;}
-section.testimonial_bg{background:url(../TimetoEat-images/testi_bg.png) repeat scroll 0 0;position:relative;}
+section.testimonial_bg{background:url(../eatz-images/testi_bg.png) repeat scroll 0 0;position:relative;}
 section.testimonial_bg:after{position:absolute;top:0px;left:0px;right:0px;height:100%;width:100%;content:"";background:rgba(1, 10, 28, 0.8);}
 .testimonial_slide{margin:0 auto;padding:15px 0;width:675px;overflow:hidden;border:1px solid rgba(59, 66, 77, 0.6);border-radius:10px;}
 .testi_img{float:left;text-align:center;width:30%;padding-top:35px;}
@@ -250,7 +250,7 @@ section.testimonial_bg:after{position:absolute;top:0px;left:0px;right:0px;height
 .category_heading ul li a:hover{color:#379EF6;}
 .read_more > p{border-bottom:1px solid;color:hsl(0, 0%, 0%);display:inline-block;font-size:13px;font-weight:600;line-height:18px;}
 .read_more p:hover{color:#379EF6;}
-section.contact_bg{background:url(../TimetoEat-images/contact_bg.png) repeat scroll 0 0;position:relative;}
+section.contact_bg{background:url(../eatz-images/contact_bg.png) repeat scroll 0 0;position:relative;}
 section.contact_bg:after{position:absolute;top:0px;left:0px;right:0px;height:100%;width:100%;content:"";background:rgba(1, 10, 28, 0.8);}
 .contact_form{background:hsl(0, 0%, 100%) none repeat scroll 0 0;padding:45px 35px 0;}
 .form-group span{color:hsl(0, 100%, 50%);}

@@ -8,7 +8,7 @@
 
 <div class="col-md-1 col-sm-1">
 
-<div class="logo_img">[![timetoeat-logo](./TimetoEat-images/time-to-eat-logo.png)](https://www.timetoeat.ro)</div>
+<div class="logo_img">[![eatz-logo](./eatz-images/time-to-eat-logo.png)](https://www.eatz.ro)</div>
 
 </div>
 
@@ -22,15 +22,15 @@
 
 <div class="collapse navbar-collapse" id="navbar">
 
-*   [Acasă](https://www.timetoeat.ro)
-*   [Avantaje](https://www.timetoeat.ro/#Timetoeat-advantages)
-*   [Cum Funcționează](https://www.timetoeat.ro/#Timetoeat-services)
-*   [Prezentare](https://www.timetoeat.ro/#Timetoeat-presentation)
-*   [Testimonial](https://www.timetoeat.ro/#Timetoeat-testimonial)
-*   [Echipa](https://www.timetoeat.ro/#Timetoeat-team)
-*   [Contact](https://www.timetoeat.ro/#Timetoeat-contact)
-*   [Blog](https://www.timetoeat.ro/blog/)
-*   [Urmărește-ne](https://www.timetoeat.ro/#Timetoeat-follow-us)
+*   [Acasă](https://www.eatz.ro)
+*   [Avantaje](https://www.eatz.ro/#eatz-advantages)
+*   [Cum Funcționează](https://www.eatz.ro/#eatz-services)
+*   [Prezentare](https://www.eatz.ro/#eatz-presentation)
+*   [Testimonial](https://www.eatz.ro/#eatz-testimonial)
+*   [Echipa](https://www.eatz.ro/#eatz-team)
+*   [Contact](https://www.eatz.ro/#eatz-contact)
+*   [Blog](https://www.eatz.ro/blog/)
+*   [Urmărește-ne](https://www.eatz.ro/#eatz-follow-us)
 
 </div>
 
@@ -48,7 +48,7 @@
 
 </header>
 
-<section id="https://www.timetoeat.ro" class="top_banner_bg secondary-bg">
+<section id="https://www.eatz.ro" class="top_banner_bg secondary-bg">
 
 <div class="container">
 
@@ -66,7 +66,7 @@ Combat food waste.
 
 #### Savurează o masă delicioasă de la restaurante și profită de produsele din supermarketuri la prețuri reduse până la 80%!
 
-<div class="section_sub_btn">[Cum funcționează?](#Timetoeat-services)</div>
+<div class="section_sub_btn">[Cum funcționează?](#eatz-services)</div>
 
 </div>
 
@@ -74,7 +74,7 @@ Combat food waste.
 
 <div class="col-md-6">
 
-<div class="present_img">![timetoeat](./TimetoEat-images/edited/time-to-eat-food-with-hand.png)</div>
+<div class="present_img">![eatz](./eatz-images/edited/time-to-eat-food-with-hand.png)</div>
 
 </div>
 
@@ -86,7 +86,7 @@ Combat food waste.
 
 </section>
 
-<section id="Timetoeat-advantages" class="primary-bg">
+<section id="eatz-advantages" class="primary-bg">
 
 <div class="container">
 
@@ -98,7 +98,7 @@ Combat food waste.
 
 ## Vrei să ai parte de o masă bună la un preț avantajos?
 
-##### Noi îți recomandăm cele mai apropiate restaurante care oferă reducere de până la 80% la sfârșitul programului. Cu Time to Eat poți cumpăra mâncare bună la cel mai mic preț, înainte ca restaurantul să se închidă.
+##### Noi îți recomandăm cele mai apropiate restaurante care oferă reducere de până la 80% la sfârșitul programului. Cu eatz poți cumpăra mâncare bună la cel mai mic preț, înainte ca restaurantul să se închidă.
 
 </div>
 
@@ -108,13 +108,13 @@ Combat food waste.
 
 *   ##### Mâncare Gustoasă
 
-    Cu Time to Eat poți cumpăra mâncarea ce rămâne la sfârșitul programului restaurantelor.
+    Cu eatz poți cumpăra mâncarea ce rămâne la sfârșitul programului restaurantelor.
 *   ##### Cel mai mic preț
 
     Găsește mâncare la cele mai mici prețuri din orașul tău. Produse reduse pâna la 80%!
 *   ##### Luptă împotriva risipei mâncării
 
-    În prezent 40% din mâcarea produsă este risipită. Cu Time to Eat lupți împotriva risipei mâncarii.
+    În prezent 40% din mâcarea produsă este risipită. Cu eatz lupți împotriva risipei mâncarii.
 *   ##### O planeta mai verde
 
     Reducând risipa mâncării contribui activ la protejarea planetei, în timp ce te bucuri de o masă delicioasă.
@@ -157,7 +157,7 @@ Combat food waste.
 
 ##### Alege Mâncarea
 
-Descarcă aplicația Time to Eat și alege din ofertele disponibile la localurile din apropierea ta.
+Descarcă aplicația eatz și alege din ofertele disponibile la localurile din apropierea ta.
 
 </div>
 
@@ -199,7 +199,7 @@ Zâmbește! Tocmai ai contribuit la binele planetei noastre in timp ce savurezi 
 
 ## Ușor de folosit
 
-#### Aplicațiile Time to Eat te ajută să găsești mâncare aproape de tine.
+#### Aplicațiile eatz te ajută să găsești mâncare aproape de tine.
 
 </div>
 
@@ -211,7 +211,7 @@ Zâmbește! Tocmai ai contribuit la binele planetei noastre in timp ce savurezi 
 
 ](#)
 
-Cu Time to Eat găsești cele mai noi localuri partenere. Ne mărim zilnic rețeaua localurilor partenere, asa că fii pe fază pentru cele mai noi oferte.
+Cu eatz găsești cele mai noi localuri partenere. Ne mărim zilnic rețeaua localurilor partenere, asa că fii pe fază pentru cele mai noi oferte.
 
 </div>
 
@@ -295,7 +295,7 @@ Coordonator Proiect Food Waste Combat pentru JCI Cluj
 
 <div class="testi-text">
 
-Time to Eat e pentru gurmanzi, dar și pentru oamenii responsabili. Pentru cei care iubesc mâncarea, dar înțeleg și nevoia evitării risipirii ei. Pentru cei care în viețile lor pe fugă, vor să facă lucruri plăcute într-un mod eficient. E o aplicație pentru savurat mai ușor viața.
+eatz e pentru gurmanzi, dar și pentru oamenii responsabili. Pentru cei care iubesc mâncarea, dar înțeleg și nevoia evitării risipirii ei. Pentru cei care în viețile lor pe fugă, vor să facă lucruri plăcute într-un mod eficient. E o aplicație pentru savurat mai ușor viața.
 
 </div>
 
@@ -321,7 +321,7 @@ Time to Eat e pentru gurmanzi, dar și pentru oamenii responsabili. Pentru cei c
 
 <div class="section_heading">
 
-## Membrii Echipei Time to Eat
+## Membrii Echipei eatz
 
 </div>
 
@@ -479,9 +479,9 @@ Co-Founder
 
 <div class="subscribe">
 
-### Time to Eat!
+### eatz!
 
-###### În curând noua aplicație Time to Eat va fi disponibilă gratuit pe <span>**Android** </span>și **iOS**
+###### În curând noua aplicație eatz va fi disponibilă gratuit pe <span>**Android** </span>și **iOS**
 
 </div>
 
@@ -539,7 +539,7 @@ Follow us to find out more!
 <div class="modal-header">Multumim! <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button></div>
 
 <div class="modal-body">Mesajul tau a fost primit.
-Multumim pentru gandurile si ideile tale. Echipa time to eat iti ureaza o zi frumoasa!</div>
+Multumim pentru gandurile si ideile tale. Echipa eatz iti ureaza o zi frumoasa!</div>
 
 <div class="modal-footer"><button type="button" class="btn btn-info btn-block" data-dismiss="modal">Inchide</button></div>
 
@@ -557,7 +557,7 @@ Multumim pentru gandurile si ideile tale. Echipa time to eat iti ureaza o zi fru
 
 <div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button></div>
 
-<div class="modal-body">Multumim pentru abonare! Acum vei fi la curent cu noutatile aplicatiei Time to Eat si vei primi ultimele informatii. Nu uita sa dai like paginii de facebook.</div>
+<div class="modal-body">Multumim pentru abonare! Acum vei fi la curent cu noutatile aplicatiei eatz si vei primi ultimele informatii. Nu uita sa dai like paginii de facebook.</div>
 
 <div class="modal-footer">[<button style="width:40%; margin-bottom:10px;" type="button" class="btn btn-facebook center-block">Facebook Page</button>](https://www.facebook.com/timetoeatnow/)</div>
 
@@ -567,4 +567,4 @@ Multumim pentru gandurile si ideile tale. Echipa time to eat iti ureaza o zi fru
 
 </div>
 
-<script>(function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/ro_RO/sdk.js#xfbml=1&version=v2.10&appId=228557190977176"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <script type="application/ld+json">{ "@context": "http://schema.org", "@type": "FoodEstablishment", "name": "Time to Eat", "@id": "https://www.timetoeat.ro", "url": "https://www.timetoeat.ro", "logo": "./TimetoEat-images/time-to-eat-logo.png", "image": "./TimetoEat-images/time-to-eat-logo.png", "address": { "@type": "PostalAddress", "streetAddress": "Calea Turzii nr. 227A ap. 63", "addressLocality": " Cluj-Napoca", "addressRegion": "RO", "postalCode": "400000" }, "email": "contact.timetoeat@gmail.com", "telePhone": "+40755881771", "sameAs": [ "https://www.facebook.com/timetoeatnow/", "https://www.instagram.com/timetoeatromania/", "https://www.linkedin.com/company/18147692/", "https://plus.google.com/u/3/b/117150894356548666004/117150894356548666004", "https://goo.gl/maps/RN48FaPeWj42" ], "paymentAccepted": [ "cash" ], "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 08:00-23:00", "geo": { "@type": "GeoCoordinates", "latitude": "46.7453892", "longitude": "23.5905167" }, "priceRange":"$", "servesCuisine":[ "Middle Eastern", "Mediterranean" ], "potentialAction": { "@type": "BuyAction", "target": [ "https://www.timetoeat.ro", "android-app:https://itunes.apple.com/gb/app/time-to-eat-romania/id1309182561?mt=8", "ios-app:https://itunes.apple.com/gb/app/time-to-eat-romania/id1309182561?mt=8" ] } }</script> <link href="./TimetoEat-css/font-awesome.min.css" rel="stylesheet"> <link rel="stylesheet" href="./TimetoEat-css/animate.min.css">   <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700" rel="stylesheet" type="text/css"> <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
+<script>(function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/ro_RO/sdk.js#xfbml=1&version=v2.10&appId=228557190977176"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script> <script type="application/ld+json">{ "@context": "http://schema.org", "@type": "FoodEstablishment", "name": "eatz", "@id": "https://www.timetoeat.ro", "url": "https://www.timetoeat.ro", "logo": "./TimetoEat-images/time-to-eat-logo.png", "image": "./TimetoEat-images/time-to-eat-logo.png", "address": { "@type": "PostalAddress", "streetAddress": "Calea Turzii nr. 227A ap. 63", "addressLocality": " Cluj-Napoca", "addressRegion": "RO", "postalCode": "400000" }, "email": "contact.timetoeat@gmail.com", "telePhone": "+40755881771", "sameAs": [ "https://www.facebook.com/timetoeatnow/", "https://www.instagram.com/timetoeatromania/", "https://www.linkedin.com/company/18147692/", "https://plus.google.com/u/3/b/117150894356548666004/117150894356548666004", "https://goo.gl/maps/RN48FaPeWj42" ], "paymentAccepted": [ "cash" ], "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 08:00-23:00", "geo": { "@type": "GeoCoordinates", "latitude": "46.7453892", "longitude": "23.5905167" }, "priceRange":"$", "servesCuisine":[ "Middle Eastern", "Mediterranean" ], "potentialAction": { "@type": "BuyAction", "target": [ "https://www.timetoeat.ro", "android-app:https://itunes.apple.com/gb/app/time-to-eat-romania/id1309182561?mt=8", "ios-app:https://itunes.apple.com/gb/app/time-to-eat-romania/id1309182561?mt=8" ] } }</script> <link href="./TimetoEat-css/font-awesome.min.css" rel="stylesheet"> <link rel="stylesheet" href="./TimetoEat-css/animate.min.css">   <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700" rel="stylesheet" type="text/css"> <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">

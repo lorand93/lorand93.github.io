@@ -6,7 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>https://www.timetoeat.ro/</loc>
+    <loc>https://www.eatz.ro/</loc>
     <lastmod>2017-09-28T14:45:26+00:00</lastmod>
     <changefreq>daily</changefreq>
 
@@ -14,14 +14,14 @@
   </url>
 
   <url>
-    <loc>https://www.timetoeat.ro/blog/</loc>
+    <loc>https://www.eatz.ro/blog/</loc>
     <lastmod>2017-09-29T08:14:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.70</priority>
   </url>
 
   <url>
-    <loc>https://www.timetoeat.ro/en/</loc>
+    <loc>https://www.eatz.ro/en/</loc>
     <lastmod>2017-09-29T08:14:41+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
