@@ -8,7 +8,7 @@
 
 <div class="col-md-1 col-sm-1">
 
-<div class="logo_img">[![timetoeat-logo](https://timetoeat.ro/TimetoEat-images/time-to-eat-logo.png)](https://www.timetoeat.ro)</div>
+<div class="logo_img">[![timetoeat-logo](./TimetoEat-images/time-to-eat-logo.png)](https://www.timetoeat.ro)</div>
 
 </div>
 
@@ -74,7 +74,7 @@ Combat food waste.
 
 <div class="col-md-6">
 
-<div class="present_img">![timetoeat](https://timetoeat.ro/TimetoEat-images/edited/time-to-eat-food-with-hand.png)</div>
+<div class="present_img">![timetoeat](./TimetoEat-images/edited/time-to-eat-food-with-hand.png)</div>
 
 </div>
 
@@ -125,7 +125,7 @@ Combat food waste.
 
 <div class="col-md-6">
 
-<div class="features_img pull-left">![timetoeat](https://timetoeat.ro/TimetoEat-images/edited/time-to-eat-romania-stacked-food.png)</div>
+<div class="features_img pull-left">![timetoeat](./TimetoEat-images/edited/time-to-eat-romania-stacked-food.png)</div>
 
 </div>
 
@@ -229,7 +229,7 @@ Poți ridica comanda în intervalul specificat de fiecare restaurant. Comenzile 
 
 <div class="col-md-4">
 
-<div class="workng_img">![timetoeat](https://timetoeat.ro/TimetoEat-images/edited/time-to-eat-romania-gold-food.png)</div>
+<div class="workng_img">![timetoeat](./TimetoEat-images/edited/time-to-eat-romania-gold-food.png)</div>
 
 </div>
 
@@ -329,7 +329,7 @@ Time to Eat e pentru gurmanzi, dar și pentru oamenii responsabili. Pentru cei c
 
 <div class="member_detail">
 
-<div class="member_img">![timetoeat](https://timetoeat.ro/TimetoEat-images/Timetoeat-m1.png)</div>
+<div class="member_img">![timetoeat](./TimetoEat-images/Timetoeat-m1.png)</div>
 
 <div class="member_name">
 
@@ -347,7 +347,7 @@ Co-Founder
 
 <div class="member_detail">
 
-<div class="member_img">![timetoeat](https://timetoeat.ro/TimetoEat-images/Timetoeat-m2.png)</div>
+<div class="member_img">![timetoeat](./TimetoEat-images/Timetoeat-m2.png)</div>
 
 <div class="member_name">
 
@@ -471,7 +471,7 @@ Co-Founder
 
 <div class="col-md-4">
 
-<div class="workng_img">![timetoeat](https://timetoeat.ro/TimetoEat-images/edited/time-to-eat-login-screen-phone.png)</div>
+<div class="workng_img">![timetoeat](./TimetoEat-images/edited/time-to-eat-login-screen-phone.png)</div>
 
 </div>
 
