@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b35fc9fa-2454-441e-af9c-9c761868562b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,16 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="569" column="616" selection-start-line="569" selection-start-column="612" selection-end-line="569" selection-end-column="616" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="533" column="60" selection-start-line="533" selection-start-column="51" selection-end-line="533" selection-end-column="60" />
+            <state relative-caret-position="163">
+              <caret line="602" column="20" lean-forward="true" selection-start-line="602" selection-start-column="20" selection-end-line="602" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -38,7 +42,12 @@
       <find>https://timetoeat.ro</find>
       <find>§</find>
       <find>bootstrap</find>
+      <find>logo</find>
+      <find>https://timetoeat.ro/</find>
     </findStrings>
+    <replaceStrings>
+      <replace>./</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,6 +56,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -114,12 +124,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525608138771</updated>
-      <workItem from="1525608144562" duration="108000" />
+      <workItem from="1525608144562" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108000" />
+    <option name="totallyTimeSpent" value="240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="22" width="1602" height="959" extended-state="0" />
@@ -131,7 +141,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32946634" />
       <window_info anchor="right" id="FAQ Robot" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Project Explorer" />
@@ -157,15 +167,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="533" column="60" selection-start-line="533" selection-start-column="51" selection-end-line="533" selection-end-column="60" />
+        <state relative-caret-position="425">
+          <caret line="569" column="616" selection-start-line="569" selection-start-column="612" selection-end-line="569" selection-end-column="616" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="602" column="20" lean-forward="true" selection-start-line="602" selection-start-column="20" selection-end-line="602" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
