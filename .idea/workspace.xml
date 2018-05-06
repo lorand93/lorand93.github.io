@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="763" column="7" lean-forward="true" selection-start-line="763" selection-start-column="7" selection-end-line="763" selection-end-column="7" />
+            <state relative-caret-position="264">
+              <caret line="293" selection-start-line="293" selection-end-line="293" />
             </state>
           </provider>
         </entry>
@@ -46,6 +46,8 @@
       <find>style.css</find>
       <find>www.timetoeat.ro</find>
       <find>animate.min.css</find>
+      <find>membrii echipei</find>
+      <find>reactii s</find>
     </findStrings>
     <replaceStrings>
       <replace>./</replace>
@@ -126,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525608138771</updated>
-      <workItem from="1525608144562" duration="380000" />
+      <workItem from="1525608144562" duration="461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="380000" />
+    <option name="totallyTimeSpent" value="461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="22" width="1602" height="959" extended-state="0" />
@@ -143,9 +145,9 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32946634" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32946634" />
       <window_info anchor="right" id="FAQ Robot" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Project Explorer" />
       <window_info id="Job Explorer" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -178,8 +180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="763" column="7" lean-forward="true" selection-start-line="763" selection-start-column="7" selection-end-line="763" selection-end-column="7" />
+        <state relative-caret-position="264">
+          <caret line="293" selection-start-line="293" selection-end-line="293" />
         </state>
       </provider>
     </entry>
