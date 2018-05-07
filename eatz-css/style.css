@@ -252,7 +252,7 @@ section.testimonial_bg:after{position:absolute;top:0px;left:0px;right:0px;height
 .read_more p:hover{color:#379EF6;}
 section.contact_bg{background:url(../eatz-images/contact_bg.png) repeat scroll 0 0;position:relative;}
 section.contact_bg:after{position:absolute;top:0px;left:0px;right:0px;height:100%;width:100%;content:"";background:rgba(1, 10, 28, 0.8);}
-.contact_form{background:hsl(0, 0%, 100%) none repeat scroll 0 0;padding:45px 35px 0;}
+.contact_form{background:transparent none repeat scroll 0 0;padding:45px 35px 0; color:white;}
 .form-group span{color:hsl(0, 100%, 50%);}
 .contact_form .form-control{border:1px solid hsl(0, 0%, 80%);border-radius:10px;box-shadow:none;color:hsl(0, 0%, 0%);font-size:18px;font-weight:300;height:55px;margin-bottom:2px;}
 label{display:inline-block;font-weight:700;margin-bottom:5px;max-width:100%;font-family:roboto slab;}
