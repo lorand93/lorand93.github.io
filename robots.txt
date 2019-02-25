@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /login$
+Disallow: /logout
+Disallow: /signup$
+Disallow: /activity
+Disallow: /user/recovery
+Disallow: /user/unverified
+Disallow: /user/payment
+Disallow: /maintenance
+
+User-agent: Googlebot-Image
+Disallow:
